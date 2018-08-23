@@ -21,7 +21,7 @@ INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES
 INSERT INTO subgenres (id, name) VALUES (1, "Sci-fi Fantasy"),
 (2, "Rom-Com");
 
-INSERT INTO character_books (id, book_id, charcter_id) VALUES
+INSERT INTO character_books (id, book_id, character_id) VALUES
 (1, 1, 1), (2, 2, 2), (3, 3, 3), (4, 4, 4), (5, 5, 5),
 (6, 7, 6), (7, 7, 7), (8, 8, 8), (9, 9, 10), (1, 2, 1),
 (11, 11, 11), (12, 5, 4), (13, 7, 3), (14, 9, 11), (15, 2, 7),

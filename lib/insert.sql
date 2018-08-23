@@ -12,7 +12,7 @@ INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES
 (1, "Bob", "Human", "Uchi Wali", 1, 1),
 (2, "Lisa", "Human", "That's Dope", 2, 2),
 (3, "Dave", "Alien", "Super Fonzed", 3, 3),
-(4, "Fido", "Animal", "Woof yo", 4, 4)
+(4, "Fido", "Animal", "Woof yo", 4, 4),
 (5, "Thanos", "Alien", "I never taught you how to lie..", 5, 5),
 (6, "Bill", "Human", "The Jello pudding", 6, 6),
 (7, "Hana", "Human", "Well, Thats cool", 7, 7),

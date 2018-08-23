@@ -3,3 +3,6 @@ INSERT INTO series (id, title, author_id, subgenre_id) VALUES
 
 INSERT INTO authors (id, name) VALUES (1, "Fyodor Dostoevsky"),
 (2, "William shakespeare")
+
+INSERT INTO books (id, title, year, series_id) VALUES (1, "Yikes!", 1998, 1),
+

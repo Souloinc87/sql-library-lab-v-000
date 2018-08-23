@@ -17,3 +17,7 @@ INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES
 (6, "Bill", "Human", "The Jello pudding", 6, 6),
 (7, "Hana", "Human", "Well, Thats cool", 7, 7),
 (8, "Bran", "Human", "Oh nooo", 8, 8)
+
+INSERT INTO subgenres (id, name) VALUES (1, "Sci-fi Fantasy"), 
+(2, "Rom-Com")
+

@@ -6,7 +6,7 @@ INSERT INTO authors (id, name) VALUES (1, "Fyodor Dostoevsky"),
 
 INSERT INTO books (id, title, year, series_id) VALUES (1, "Yikes!", 1998, 1),
 (2, "Freaked Out", 2009, 2), (3, "Untold Mysteries", 2000, 3), (4, "Tidal Wave", 1996, 4),
-(5, "Nice days", 2010, 5), (6, "The Lost Boys" 1994, 6);
+(5, "Nice days", 2010, 5), (6, "The Lost Boys", 1994, 6);
 
 INSERT INTO characters (id, name, species, motto, series_id, author_id) VALUES
 (1, "Bob", "Human", "Uchi Wali", 1, 1),
